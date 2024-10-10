@@ -22,10 +22,10 @@ By implementing this Spotify data pipeline on AWS, the project aims to deliver a
 
 ## Tools & Services
 
-Spotify API
-AWS Lambda
-AWS S3 (Simple Storage Service)
-AWS Glue
-Amazon Athena
+1.Spotify API
+2.AWS Lambda
+3.AWS S3 (Simple Storage Service)
+4.AWS Glue
+5.Amazon Athena
 
 
